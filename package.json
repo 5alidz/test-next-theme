@@ -1,0 +1,18 @@
+{
+  "name": "test-next-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "khaled",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^10.0.7",
+    "next-themes": "0.0.13-beta.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
