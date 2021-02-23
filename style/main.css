@@ -1,5 +1,10 @@
+/*
+
+we are not gonna style the body, just let the browser handle bg/fg color.
+current browser support:
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme
+
 :root {
-  /* Your default theme */
   --background: white;
   --foreground: black;
 }
@@ -8,3 +13,4 @@
   --background: black;
   --foreground: white;
 }
+*/
